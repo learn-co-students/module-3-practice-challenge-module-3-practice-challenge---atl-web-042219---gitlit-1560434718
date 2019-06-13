@@ -6005,36 +6005,6 @@
       "age": 13,
       "description": "131313",
       "id": 1001
-    },
-    {
-      "name": "Ziggy",
-      "age": 4,
-      "description": "Just a big happy puppy dog",
-      "id": 1002
-    },
-    {
-      "name": [
-        "",
-        ""
-      ],
-      "description": "",
-      "id": 1003
-    },
-    {
-      "name": [
-        "Ziggy",
-        "4"
-      ],
-      "description": "Just a big happy puppy dog",
-      "id": 1004
-    },
-    {
-      "name": [
-        "Rose",
-        "32"
-      ],
-      "description": "Queen obviously",
-      "id": 1005
     }
   ]
 }
